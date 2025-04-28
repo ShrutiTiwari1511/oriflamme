@@ -5,10 +5,11 @@ To run this project locally:
 1. Clone the repository: git clone <repository_link>
 2. Inside the project, install dependencies: flutter pub get
 3. Connect your local device or start a simulator: flutter run
+4. For ios, run pod install in ios directory
 
 📂 Project Structure
 This project is organized using the MVVM architecture for better scalability and maintainability.
-All colors and strings used in the application are neatly organized in the utils folder to ensure consistency and easy updates.
+All colors and strings used in the application are neatly organized in the utils folder to ensure consistency and easy updates. I have made the singer name optional in the database, which can be seen in the second screenshot. The database breakdown can be seend in video_model file.
 
 ✨ Features
 1. Endless scrolling:
