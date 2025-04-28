@@ -29,3 +29,6 @@ All colors and strings used in the application are neatly organized in the utils
  - Horizontally scrollable social links that redirect users to their respective websites.
 
 🖼️ Screenshots
+![Simulator Screenshot - iPhone 14 - 2025-04-28 at 12 22 05](https://github.com/user-attachments/assets/8a2ba34e-e38e-46f8-be27-720c9a091534)
+
+
